@@ -27,3 +27,5 @@ to run in background use subprocess lib in python
 subprocess.Popen("path",shell=True) 
 <br> 
 thank you ^__^
+<br>
+<h1>No responsibility for abuse</h1>
